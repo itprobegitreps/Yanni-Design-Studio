@@ -1,0 +1,24 @@
+    #mobileSlide{display: none; margin: 0 !important;}
+    #mobileSlide img {
+      width: 100%;
+      height: auto;
+      margin: 0 0 20px 0 !important;
+    }
+    @media (max-width: 885px) {
+        #slide1 {display: none !important;}
+        #mobileSlide {display: block !important;}
+    }
+    .cycle-slideshow { 
+    -webkit-perspective: 30000;
+    -webkit-transform-style: preserve-3d;
+    -moz-perspective: 30000;
+    -moz-transform-style: preserve-3d;
+    -o-perspective: 30000;
+    -o-transform-style: preserve-3d;
+    perspective: 30000;
+    transform-style: preserve-3d;  
+}
+
+.fotorama__video-close {
+    z-index: 100;
+	}

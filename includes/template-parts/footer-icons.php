@@ -1,0 +1,3 @@
+<a  data-toggle="tooltip" data-placement="top" target="_blank" data-original-title="Facebook - Visit us on Facebook" href="<?=get_option('fb_url_main');?>" class="social-icons__icon social-icons__icon--normal social-icons__icon--facebook"></a>
+<a  data-toggle="tooltip" data-placement="top" target="_blank" data-original-title="Pinterest - Visit us on Pinterest" href="<?=get_option('pn_url_main');?>" class="social-icons__icon social-icons__icon--normal social-icons__icon--pinterest"></a>
+<a  data-toggle="tooltip" data-placement="top" target="_blank" data-original-title="Instagram - Visit us on Instagram" href="<?=get_option('is_url_main');?>" class="social-icons__icon social-icons__icon--normal social-icons__icon--instagram"></a>
